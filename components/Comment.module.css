@@ -1,0 +1,31 @@
+.comment {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 0.9rem;
+  margin: 10px 0;
+}
+
+.header {
+  margin-bottom: 5px;
+}
+
+.hideButton {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.hideButton:hover {
+  text-decoration: underline;
+}
+
+.replies {
+  margin-left: 2rem;
+}
+
+.replyLink {
+  font-size: 0.8rem;
+  color: #000000;
+  text-decoration: underline;
+  margin: 10px 0;
+  display: block;
+}

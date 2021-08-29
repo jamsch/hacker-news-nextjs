@@ -1,0 +1,30 @@
+.main {
+  max-width: 840px;
+  width: 100%;
+  margin: auto;
+  background-color: #f6f6ef;
+}
+
+.topBar {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  background-color: #ff6600;
+}
+
+.topBar a {
+  display: inline-flex;
+}
+
+.topBar strong {
+  font-size: 1.1rem;
+}
+
+.logo {
+  border: 1px solid #fff;
+  margin-right: 10px;
+}
+
+.content {
+  padding: 1rem;
+}

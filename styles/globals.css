@@ -1,0 +1,36 @@
+html,
+body {
+  min-height: 100vh;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-size: 10pt;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.subtext {
+  font-size: 0.8rem;
+  color: #525252;
+}
+
+.subtext a {
+  color: #525252;
+}
+
+.subtext a:hover {
+  text-decoration: underline;
+}
+
+/* code blocks in comments */
+code {
+  white-space: pre-wrap;
+}

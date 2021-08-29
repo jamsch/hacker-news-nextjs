@@ -1,0 +1,8 @@
+.stories > div {
+  display: flex;
+  gap: 10px;
+}
+
+.stories > div + div {
+  margin-top: 10px;
+}
